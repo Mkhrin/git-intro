@@ -2,7 +2,7 @@
 class Employee:
 
     #create a class attribute/variable
-    vacation_days = 20
+    vacation_days = 15
 
 #creating object/inctance from the class
 Mariya = Employee()
