@@ -6,6 +6,7 @@ class Human:
     hands = 2
     head = 1
     ears = 2
+    speaks = True
 
     # create a constructor method
     def __init__(self, first_name, last_name, nationality, language, country) -> None:
