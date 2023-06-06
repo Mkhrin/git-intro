@@ -14,7 +14,7 @@ print(f'Jane vacation available days {Jane.vacation_days}')
 print(f'Bob vacation available days {Bob.vacation_days}')
 
 # Change object atrebute value
-Jane.vacation_days = 20
+Jane.vacation_days = 10
 Jane.is_manager = True
 
 print(Jane.is_manager)

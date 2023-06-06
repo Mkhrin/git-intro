@@ -22,7 +22,7 @@ class BankAccount:
         print(f'Account Number: {self.account_number}')
         print(f'Current Balance: {self.balance}')
 
-account_1 = BankAccount('123654', 'Jane Dou', 100)
+account_1 = BankAccount('123654', 'Jane Dou', 10)
 account_2 = BankAccount('789456', 'James Kim')
 
 account_1.deposit(1000)
