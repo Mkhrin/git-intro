@@ -8,10 +8,12 @@ class Employee:
 Mariya = Employee()
 Jane = Employee()
 Bob = Employee()
+Anna = Employee()
 
 print(f'Mary vacation available days {Mariya.vacation_days}')
 print(f'Jane vacation available days {Jane.vacation_days}')
 print(f'Bob vacation available days {Bob.vacation_days}')
+print(f'Anna vacation available days {Anna.vacation_days}')
 
 # Change object atrebute value
 Jane.vacation_days = 10
