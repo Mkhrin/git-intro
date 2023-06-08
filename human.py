@@ -8,6 +8,7 @@ class Human:
     ears = 2
     speaks = True
 
+
     # create a constructor method
     def __init__(self, first_name, last_name, nationality, language, country) -> None:
         self.first_name = first_name
@@ -15,6 +16,8 @@ class Human:
         self.nationality = nationality
         self.language = language
         self.country = country
+        self.user - False
+        
     
     # create an object method
     def bio(self):
